@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_e5030a0c",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-12-18T18:56:09Z",
+      "side": 1,
+      "message": "multiuser section already duplicated down here.",
+      "revId": "9f6dd72d109a7a91ba4fa410ac7ad62137a57c07",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
