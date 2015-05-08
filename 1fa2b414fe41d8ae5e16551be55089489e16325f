@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a89bdaa_b99a0fc4",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2015-05-08T08:44:56Z",
+      "side": 1,
+      "message": "device/lge/v500",
+      "revId": "1fa2b414fe41d8ae5e16551be55089489e16325f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
