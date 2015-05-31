@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a8ec9b2_d8f2756f",
+        "filename": "sepolicy/bluetooth_loader.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-05-31T07:24:10Z",
+      "side": 1,
+      "message": "block_device is a little broad, figure out what is being searched and label it.",
+      "revId": "6b176eac48c8e78a2cb1447118fb5651e2071edc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_f8e731aa",
+        "filename": "sepolicy/bluetooth_loader.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-05-31T07:24:10Z",
+      "side": 1,
+      "message": "system_prop is a little broad, figure out what is being set and label it.",
+      "revId": "6b176eac48c8e78a2cb1447118fb5651e2071edc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
