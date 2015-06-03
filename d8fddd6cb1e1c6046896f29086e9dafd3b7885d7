@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a8ec9b2_ef03de0b",
+        "filename": "device.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 155,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-06-03T11:45:20Z",
+      "side": 0,
+      "message": "Save the formatting changes for a separate patchset.",
+      "revId": "d8fddd6cb1e1c6046896f29086e9dafd3b7885d7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
