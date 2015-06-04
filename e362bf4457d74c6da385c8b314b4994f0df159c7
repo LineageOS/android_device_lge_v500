@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a8ec9b2_6a3edcb9",
+        "filename": "sepolicy/bluetooth_loader.te",
+        "patchSetId": 5
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-06-04T09:40:19Z",
+      "side": 1,
+      "message": "I wonder if you can do this with domain_auto_trans also.",
+      "revId": "e362bf4457d74c6da385c8b314b4994f0df159c7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
