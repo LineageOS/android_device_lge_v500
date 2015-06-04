@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a8ec9b2_2f1146ad",
+        "filename": "sepolicy/bluetooth_loader.te",
+        "patchSetId": 4
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-06-04T03:41:13Z",
+      "side": 1,
+      "message": "Do you need r_file_perms, or just read?",
+      "revId": "233141923cd9fe551d0e45972e040863590ae7e2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
