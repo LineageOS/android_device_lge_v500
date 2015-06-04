@@ -16,6 +16,24 @@
       "revId": "e362bf4457d74c6da385c8b314b4994f0df159c7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_aa5f040d",
+        "filename": "sepolicy/bluetooth_loader.te",
+        "patchSetId": 5
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 12604
+      },
+      "writtenOn": "2015-06-04T09:51:49Z",
+      "side": 1,
+      "message": "I\u0027ve been reading about that macro, but I\u0027m not sure.  I\u0027d like to keep the rules as simple as possible.",
+      "parentUuid": "7a8ec9b2_6a3edcb9",
+      "revId": "e362bf4457d74c6da385c8b314b4994f0df159c7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
