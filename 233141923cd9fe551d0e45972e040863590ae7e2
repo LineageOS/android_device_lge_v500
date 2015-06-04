@@ -16,6 +16,24 @@
       "revId": "233141923cd9fe551d0e45972e040863590ae7e2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_6f6a6e1c",
+        "filename": "sepolicy/bluetooth_loader.te",
+        "patchSetId": 4
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 12604
+      },
+      "writtenOn": "2015-06-04T04:07:26Z",
+      "side": 1,
+      "message": "Actually, /data/misc/bluetooth is empty. I might not need this rule or the associated file_context. I think I added this because I was trying to sync file_contexts with other devices sepolicy.",
+      "parentUuid": "7a8ec9b2_2f1146ad",
+      "revId": "233141923cd9fe551d0e45972e040863590ae7e2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
