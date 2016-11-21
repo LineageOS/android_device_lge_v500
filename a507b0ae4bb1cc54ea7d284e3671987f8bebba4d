@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff2e2bb8_f44e326d",
+        "filename": "setup-makefiles.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-11-21T01:00:06Z",
+      "side": 1,
+      "message": "You can simply use call inherit-product-if-exists",
+      "revId": "a507b0ae4bb1cc54ea7d284e3671987f8bebba4d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
