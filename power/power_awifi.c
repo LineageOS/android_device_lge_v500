@@ -43,7 +43,7 @@
 #define POWERSAVE_MIN_FREQ 384000
 #define POWERSAVE_MAX_FREQ 1026000
 #define BIAS_PERF_MIN_FREQ 1134000
-#define NORMAL_MAX_FREQ 1512000
+#define NORMAL_MAX_FREQ 1728000
 
 #define MAX_FREQ_LIMIT_PATH "/sys/kernel/cpufreq_limit/limited_max_freq"
 #define MIN_FREQ_LIMIT_PATH "/sys/kernel/cpufreq_limit/limited_min_freq"
