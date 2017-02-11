@@ -88,7 +88,8 @@ BOARD_MKBOOTIMG_ARGS := --ramdisk_offset 0x02000000
 BOARD_CUSTOM_BOOTIMG_MK := device/lge/v500/mkbootimg.mk
 BOARD_CUSTOM_BOOTIMG := true
 
-# Legacy blobs
+# Legacy stuff
+BOARD_GLOBAL_CFLAGS += -DQCOM_BSP_LEGACY
 TARGET_NEEDS_PLATFORM_TEXT_RELOCATIONS := true
 
 # Partitions
