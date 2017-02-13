@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a2585a7_0f96fc94",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 8
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2017-02-13T02:27:15Z",
+      "side": 1,
+      "message": "Well, this technically shouldn\u0027t be in the camera section, but this patch overall seems fine.",
+      "range": {
+        "startLine": 47,
+        "startChar": 48,
+        "endLine": 47,
+        "endChar": 65
+      },
+      "revId": "c63364a1eaf60af5718877a36065b5f7775e73f0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
