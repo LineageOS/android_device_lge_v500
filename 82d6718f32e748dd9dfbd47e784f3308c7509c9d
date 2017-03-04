@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa5d592f_1df4d5f0",
+        "filename": "system.prop",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 16
+      },
+      "writtenOn": "2017-03-04T16:03:12Z",
+      "side": 1,
+      "message": "Should be v500.",
+      "range": {
+        "startLine": 1,
+        "startChar": 18,
+        "endLine": 1,
+        "endChar": 23
+      },
+      "revId": "82d6718f32e748dd9dfbd47e784f3308c7509c9d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
