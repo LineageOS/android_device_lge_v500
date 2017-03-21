@@ -164,10 +164,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.qc.sensors.wl_dis=true \
     ro.qualcomm.sensors.smd=true
 
-# Storage
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.sys.sdcardfs=true
-
 # Telephony
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.radio.noril=1
