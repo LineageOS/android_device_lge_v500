@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "45011eba_3f4c47b9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34406
+      },
+      "writtenOn": "2024-11-23T07:31:04Z",
+      "side": 1,
+      "message": "can you please please enable my phone support otg",
+      "revId": "4b493eee00761a62c3af0302901240679205ab87",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
